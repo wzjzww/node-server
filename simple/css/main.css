@@ -1,0 +1,29 @@
+h1 {
+	display: block;
+    text-align: center;
+}
+img {
+	width: 300px;
+    height: 350px;
+    margin: 0 auto;
+    display: block;
+}
+.wen {
+	width: 300px;
+	height: 35px;
+	border: solid 2px #ccc;
+	
+}
+.dl {
+	width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+input {
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+	outline: none;
+}
